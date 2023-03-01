@@ -1,4 +1,3 @@
-import React from 'react';
 import Contact from '../../components/contact/Contact';
 import PureModal from 'react-pure-modal';
 import 'react-pure-modal/dist/react-pure-modal.min.css';
